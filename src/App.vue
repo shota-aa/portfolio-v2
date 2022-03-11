@@ -1,21 +1,23 @@
-<script setup lang="ts">
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from './components/HelloWorld.vue'
+<script lang="ts" setup>
+import { useRoute } from 'vue-router'
+
+const route = useRoute()
 </script>
-
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <header>
+    <p>header</p>
+  </header>
+  <router-view :key="route.fullPath" />
 </template>
-
 <style>
+header {
+  min-height: 50px;
+  background-color: aqua;
+  color: red;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  background-image: url('./assets/compass.jpg');
+  min-height: 2000px;
+  /* background-color: blue; */
 }
 </style>
