@@ -14,7 +14,6 @@ const route = useRoute()
 <style>
 #app {
   margin: 0;
-  font-family: 'Caveat', cursive;
   background-image: url('./assets/compass.jpg');
   background-color: rgba(255, 255, 255, 0.4);
   background-blend-mode: lighten;
@@ -23,6 +22,7 @@ const route = useRoute()
   background-repeat: repeat;
 }
 h1 {
+  font-family: 'Caveat', cursive;
   margin: 0;
 }
 header {
@@ -40,16 +40,22 @@ header {
   right: 0;
 }
 .content {
-  padding-left: 20%;
+  padding-left: 10%;
 }
 h2 {
+  font-family: 'Caveat', cursive;
   display: inline-block;
   font-size: 2.5em;
 }
 h3 {
+  font-family: 'Caveat', cursive;
   display: inline-block;
   margin-top: 0px;
   margin-bottom: 5px;
   border-bottom: 2px solid black;
+}
+ul {
+  font-size: 1em;
+  font-weight: 600;
 }
 </style>

@@ -9,7 +9,7 @@
       <ul>
         <li>名前 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 河野将太</li>
         <li>HN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: kounosuke</li>
-        <li>大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 東京工業大学　情報理工学院　情報工学科　新学部２年</li>
+        <li>大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 東京工業大学　情報理工学院　情報工学科　学部新２年</li>
         <li>サークル&nbsp;: 東京工業大学デジタル創作同好会traP　所属</li>
       </ul>
     </div>
@@ -23,6 +23,7 @@
         <li>AWS</li>
         <li>Mysql</li>
         <li>Nginx</li>
+        <li>Github Actions</li>
       </ul>
     </div>
     <div>

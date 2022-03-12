@@ -43,8 +43,8 @@ function handleModalMove(number: number) {
   padding: 10px;
   border-radius: 30px;
 }
+/* TODO: githubにとんでもどってくるとlinkNumberが初期化されてしまう */
 .selected {
-  background-color: bisque;
 }
 .menu_icon {
   display: block;
