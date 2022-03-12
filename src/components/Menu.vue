@@ -19,8 +19,8 @@ function handleModalMove(number: number) {
   </div>
   <div v-else class="on">
     <MenuIcon @click="handleModalMove(linkNumber)" class="menu_icon"/>
-    <router-link to="/" class="link" :class="linkNumber === 0 ? 'selected' : ''" @click="handleModalMove(0)">introduction</router-link>
-    <router-link to="/works" class="link" :class="linkNumber === 1 ? 'selected' : ''" @click="handleModalMove(1)">works</router-link>
+    <router-link to="/portfolio-v2/" class="link" :class="linkNumber === 0 ? 'selected' : ''" @click="handleModalMove(0)">introduction</router-link>
+    <router-link to="/portfolio-v2/works" class="link" :class="linkNumber === 1 ? 'selected' : ''" @click="handleModalMove(1)">works</router-link>
   </div>
 </div>
 </template>
