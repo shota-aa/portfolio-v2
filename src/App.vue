@@ -7,7 +7,7 @@ const route = useRoute()
 <template>
   <Menu class="menu"/>
   <header>
-    <h1>shota's portfolio</h1>
+    <h1>Kounosuke's portfolio</h1>
   </header>
   <router-view :key="route.fullPath" class="body" />
 </template>
@@ -16,17 +16,19 @@ const route = useRoute()
   margin: 0;
   font-family: 'Caveat', cursive;
   background-image: url('./assets/compass.jpg');
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.4);
   background-blend-mode: lighten;
   background-position: 70%;
   background-size: cover;
   background-repeat: repeat;
 }
+h1 {
+  margin: 0;
+}
 header {
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.5);
-  min-height: 100px;
-  color: red;
+  border-bottom: 3px solid black;
+  min-height: 60px;
   margin: 0;
 }
 .body {
@@ -36,5 +38,18 @@ header {
 .menu {
   position: absolute;
   right: 0;
+}
+.content {
+  padding-left: 20%;
+}
+h2 {
+  display: inline-block;
+  font-size: 2.5em;
+}
+h3 {
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid black;
 }
 </style>

@@ -21,7 +21,6 @@ function handleModalMove(number: number) {
     <MenuIcon @click="handleModalMove(linkNumber)" class="menu_icon"/>
     <router-link to="/" class="link" :class="linkNumber === 0 ? 'selected' : ''" @click="handleModalMove(0)">introduction</router-link>
     <router-link to="/works" class="link" :class="linkNumber === 1 ? 'selected' : ''" @click="handleModalMove(1)">works</router-link>
-    <router-link to="/contacts" class="link" :class="linkNumber === 2 ? 'selected' : ''" @click="handleModalMove(2)">contacts</router-link>
   </div>
 </div>
 </template>
