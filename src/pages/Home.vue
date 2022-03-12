@@ -10,7 +10,7 @@
         <li>名前 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 河野将太</li>
         <li>HN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: kounosuke</li>
         <li>大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 東京工業大学　情報理工学院　情報工学科　学部新２年</li>
-        <li>サークル&nbsp;: 東京工業大学デジタル創作同好会traP　所属</li>
+        <li>サークル&nbsp;&nbsp;: 東京工業大学デジタル創作同好会traP　所属</li>
       </ul>
     </div>
     <div>
@@ -37,6 +37,12 @@
       <ul>
         <li><a href="https://github.com/shota-aa">github</a></li>
         <li><a href="https://www.facebook.com/profile.php?id=100074306125500">facebook</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Qualification</h3>
+      <ul>
+        <li>TOEIC R&L : 875点(2021/12/19) </li>
       </ul>
     </div>
   </div>

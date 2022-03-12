@@ -7,7 +7,7 @@ import { LinkIcon } from '@heroicons/vue/outline'
     <div>
       <h3>Jomon v2</h3>
       <ul>
-        <li>概要&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 部費管理サービスのversion2を制作中（バックエンドは７割ほど、フロントエンドは５割ほど完成）</li>
+        <li>概要&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 部費管理サービスのversion2を制作中</li>
         <li>自分が行ったこと : バックエンド開発、フロントエンド開発、設計、デザイン</li>
         <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, ent(ORM from facebook), Docker, CohoHa(Iaas), Swift(object storage)</li>
         <li>frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Vue, TypeScript, pinia(store), windi-css, </li>
