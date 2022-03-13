@@ -21,7 +21,7 @@ import { LinkIcon } from '@heroicons/vue/outline'
       <ul>
         <li>概要&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 部内イベント、開催場所管理サービスの機能改善</li>
         <li>自分が行ったこと　: バックエンドのいくつかの機能改善</li>
-        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, gorm(ORM), Docker, ConoHa(Iaas)</li>
+        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, gorm(ORM), DDD, Docker, ConoHa(Iaas)</li>
         <!-- <li>team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: バックエンド、フロントエンド共に３名ずつ</li> -->
         <li><a href="https://github.com/traPtitech/knoQ">github</a></li>
       </ul>
