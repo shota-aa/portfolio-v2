@@ -12,7 +12,8 @@ import { LinkIcon } from '@heroicons/vue/outline'
         <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, ent(ORM from facebook), Docker, CohoHa(Iaas), Swift(object storage)</li>
         <li>frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Vue, TypeScript, pinia(store), windi-css, </li>
         <!-- <li>team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: バックエンド、フロントエンド共に２人ずつ</li> -->
-        <li><a href="https://github.com/traPtitech/Jomon">github</a></li>
+        <li><a href="https://github.com/traPtitech/Jomon">github(backend)</a></li>
+        <li><a href="https://github.com/traPtitech/Jomon-UI">github(frontend)</a></li>
       </ul>
     </div>
     <div>
