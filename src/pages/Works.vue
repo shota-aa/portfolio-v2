@@ -9,7 +9,7 @@ import { LinkIcon } from '@heroicons/vue/outline'
       <ul>
         <li>概要&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 部内会計サービスのversion2を制作中</li>
         <li>自分が行ったこと : バックエンド開発、フロントエンド開発、設計、デザイン</li>
-        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, ent(ORM from facebook), Docker, CohoHa(Iaas), Swift(object storage)</li>
+        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, ent(ORM from facebook), TDD, Docker, CohoHa(Iaas), Swift(object storage)</li>
         <li>frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Vue, TypeScript, pinia(store), windi-css, </li>
         <!-- <li>team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: バックエンド、フロントエンド共に２人ずつ</li> -->
         <li><a href="https://github.com/traPtitech/Jomon">github(backend)</a></li>
