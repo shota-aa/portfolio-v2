@@ -20,7 +20,7 @@
         <li>Vue</li>
         <li>TypeScript</li>
         <li>Docker</li>
-        <li>AWS</li>
+        <li>AWS(EC2)</li>
         <li>Mysql</li>
         <li>Nginx</li>
         <li>Github Actions</li>
