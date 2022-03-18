@@ -34,7 +34,7 @@ import { LinkIcon } from '@heroicons/vue/outline'
       <ul>
         <li>概要&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 場所記憶法援助、共有アプリを部内ハッカソンで作成</li>
         <li>自分が行ったこと : 設計、バックエンド開発のほぼ全て</li>
-        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, sqlx, Docker, AWS(EC2), Google Oauth(openID connect)</li>
+        <li>backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Golang, sqlx, Docker, Google Oauth(openID connect)</li>
         <!-- <li>team&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: バックエンド２名、フロントエンド３名</li> -->
         <li><a href="https://github.com/hackathon-21-winter-18/backend">github</a></li>
       </ul>
